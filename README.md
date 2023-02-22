@@ -25,15 +25,15 @@ Please note that throwing your phone can result in damage to your device. IAG an
 
 ### Additonal info
 
-I don't know how to code in Swift.  This was an idea I had years ago and never took action upon.  I queried ChatGPT* for code samples of how this might work.  
+I don't know how to code in Swift.  This was an idea I had years ago and never took action upon.  So, I queried OpenAI's ChatGPT* for code samples of how this might work.  
 
 ### ChatGPT's code suggestions were captured in these files:
 - adding-user-authentication.swift
 - detecting-a-throw.swift
 - inflight-with-data-overlay.swift
-record-and-upload.swift
-record-video-in-flight.swift
-upload-to-tiktok.swift 
+- record-and-upload.swift
+- record-video-in-flight.swift
+- upload-to-tiktok.swift 
 
 *This project uses code and information from OpenAI, and is subject to OpenAI's terms of use and licensing requirements. The use of OpenAI's code and information is governed by the Apache 2.0 license, and you agree to comply with these terms as a condition of using the code and information from OpenAI.
 
