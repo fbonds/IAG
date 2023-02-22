@@ -25,7 +25,7 @@ Please note that throwing your phone can result in damage to your device. IAG an
 
 ### Additonal info
 
-I don't know how to code in Swift.  This was an idea I had years ago and never took action upon.  So, I queried OpenAI's ChatGPT* for code samples of how this might work.  
+I don't know how to code in Swift.  This was an idea I had in March of 2014.  At that time I created a domain for it illadvisedgames.com (since expired) and created an Apple Developer account to do the programming.  Very soon after I realized my hobbiest skills in Objective-C (pre Swift) were not up to the task and shelved the idea.   Then along came OpenAi's ChatGPT*...  So, I asked Gene (as I've taken to calling ChatGPT) how this could be done and "he" rapidly supplied some code samples of the various pieces.  They are provided in this project.
 
 ### ChatGPT's code suggestions were captured in these files:
 - adding-user-authentication.swift
