@@ -43,7 +43,7 @@ So, I asked Gene (as I've taken to calling ChatGPT) how this could be done and t
 
 By using code and information from OpenAI in this project, you acknowledge and agree to give appropriate credit to OpenAI, including a link to their website and a reference to the Apache 2.0 license.
 
-For the concept and game play & features of IAG, please see and respect the Creative Commons Zero v1.0 Universal LICENSE file included in this project.
+For my game concept, gameplay & suggested features of IAG, please see and respect the Creative Commons Zero v1.0 Universal LICENSE file included in this project.
 
 Thank you!
 
