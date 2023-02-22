@@ -29,7 +29,7 @@ I don't know how to code in Swift.  This was an idea I had in March of 2014.  At
 
 Then along came OpenAi's ChatGPT*...  
 
-So, I asked Gene (as I've taken to calling ChatGPT) how this could be done and "he" rapidly supplied some code samples of the various pieces.  
+So, I asked Gene (as I've taken to calling ChatGPT) how this could be done and they rapidly supplied some code samples of the various pieces.  
 
 ### ChatGPT's code suggestions were captured in these files:
 - adding-user-authentication.swift
