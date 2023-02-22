@@ -1,4 +1,4 @@
-# Introducing IAG: The Ultimate Ill-Advised Gaming Experience!
+# Introducing IAG: The Ultimate ILL-Advised Gaming Experience!
 ## Are you looking for a new and exciting way to challenge yourself and your friends? Do you want to push the limits and see just how far you can throw your phone? Look no further than IAG, the ultimate ill-advised gaming experience!
 
 With IAG, you can compete against your friends by throwing your phone across rooms, fields, off mountain tops, into the pool or ocean, and more. The IAG app will record your throws, measure the distance and speed, and provide a thrilling video of your throw, complete with an overlay of the data. And, if you want to share your results with the world, you can opt to have the video automatically uploaded to your TikTok feed.
