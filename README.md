@@ -25,7 +25,11 @@ Please note that throwing your phone can result in damage to your device. IAG an
 
 ### Additonal info
 
-I don't know how to code in Swift.  This was an idea I had in March of 2014.  At that time I created a domain for it illadvisedgames.com (since expired) and created an Apple Developer account to do the programming.  Very soon after I realized my hobbiest skills in Objective-C (pre Swift) were not up to the task and shelved the idea.   Then along came OpenAi's ChatGPT*...  So, I asked Gene (as I've taken to calling ChatGPT) how this could be done and "he" rapidly supplied some code samples of the various pieces.  They are provided in this project.
+I don't know how to code in Swift.  This was an idea I had in March of 2014.  At that time I created a domain for it illadvisedgames.com (since expired) and created an Apple Developer account to do the programming.  Very soon after I realized my hobbiest skills in Objective-C (pre Swift) were not up to the task and shelved the idea.   
+
+Then along came OpenAi's ChatGPT*...  
+
+So, I asked Gene (as I've taken to calling ChatGPT) how this could be done and "he" rapidly supplied some code samples of the various pieces.  
 
 ### ChatGPT's code suggestions were captured in these files:
 - adding-user-authentication.swift
@@ -39,7 +43,7 @@ I don't know how to code in Swift.  This was an idea I had in March of 2014.  At
 
 By using code and information from OpenAI in this project, you acknowledge and agree to give appropriate credit to OpenAI, including a link to their website and a reference to the Apache 2.0 license.
 
-For the my idea, please see and respect the Creative Commons Zero v1.0 Universal LICENSE file included in this project.
+For the concept and game play & features of IAG, please see and respect the Creative Commons Zero v1.0 Universal LICENSE file included in this project.
 
 Thank you!
 
