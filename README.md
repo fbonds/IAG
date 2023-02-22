@@ -39,3 +39,7 @@ I don't know how to code in Swift.  This was an idea I had years ago and never t
 
 By using code and information from OpenAI in this project, you acknowledge and agree to give appropriate credit to OpenAI, including a link to their website and a reference to the Apache 2.0 license.
 
+For the my idea, please see and respect the Creative Commons Zero v1.0 Universal LICENSE file included in this project.
+
+Thank you!
+
